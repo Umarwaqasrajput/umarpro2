@@ -16,7 +16,7 @@ const Header: React.FC = () => {
       </div>
 
       {/* Text Content */}
-      <div className="text-center md:text-left">p
+      <div className="text-center md:text-left">
         <h2 className="text-4xl md:text-5xl font-bold mb-4">
           Hi I m <span className="text-blue-600">Umar Waqas</span>
         </h2>
