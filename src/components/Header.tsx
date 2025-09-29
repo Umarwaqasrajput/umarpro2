@@ -21,7 +21,7 @@ const Header: React.FC = () => {
           Hi, I'm <span className="text-blue-600">Umar Waqas</span>
         </h2>
         <p className="text-lg md:text-2xl text-gray-700 mb-6">
-          A passionate <span className="font-semibold">Frontend Developer</span>,{" "}
+          A passionate <span className="font-semibold">Frontend Developer</span>,
           <span className="font-semibold">Web Developer</span> & Designer.
         </p>
         <a
