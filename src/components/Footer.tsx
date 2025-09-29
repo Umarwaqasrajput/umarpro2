@@ -1,7 +1,7 @@
 "use client";
 import Link from "next/link";
 import React from "react";
-import { FaGithub, FaFacebook, FaTiktok, FaLinkedin, FaWhatsapp, FaYoutube } from "react-icons/fa";
+import { FaGithub, FaFacebook, FaTiktok, FaYoutube } from "react-icons/fa";
 
 const Footer: React.FC = () => {
   return (
